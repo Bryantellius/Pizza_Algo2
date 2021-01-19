@@ -2,3 +2,7 @@
 2. Decide what time I want the pizza delivered.
 
 3. Decide a topping.
+
+4. Decide how many pizzas to order.
+
+5. Call friends for pizza party.
